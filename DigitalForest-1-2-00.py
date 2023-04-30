@@ -2,6 +2,7 @@
 # Text Based Adventure Game
 # By Zach White
 # Player must install Python and Pandas to play
+# Description: Distopian Sci-Fi text based game, that takes place mostly in a forest. This has been a project I statrted on my own to sharpen my python skills. There are some data science elements as well, the items menu is a pandas data frame, and I'm working on using seaborn to display graphs as location maps. 
 
 import time
 import os
